@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F8687&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1022&lines=Be+Welcome!,+My+Name+is+Lucas+Nascimento;I'm+28+years+old;iOS+Developer;I+am+living+Porto,+Portugal;+Study;Software+Engineering+at+Southern+Cross+University;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1800&lines=Be+Welcome!,+My+Name+is+Lucas+Nascimento;I'm+28+years+old;iOS+Developer;I+am+living+Porto,+Portugal;+Study;Software+Engineering+at+Southern+Cross+University;)](https://git.io/typing-svg)
 <br> </br>
 
 <br> </br>
